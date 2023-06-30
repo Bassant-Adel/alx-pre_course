@@ -1,6 +1,6 @@
 # alx-pre_course
 GitHub ALX Pre Course
-0. Create and setup your Git and GitHub account
+
 # General
 1. What is source code management
 2. What is Git
